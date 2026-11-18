@@ -15,7 +15,7 @@ https://github.com/Sittax/Sittax.Rec.Releases/releases/download/vX.Y.Z/SittaxRec
 ## Aviso de atualização do app
 O app até a 1.4.2 inclusive (instalada antes de 17/11/2026) baixa a atualização **sem seguir redirecionamento**, e o GitHub
 responde 302 → o app salvaria um arquivo de 0 bytes. Por isso o fluxo n8n de versão aponta para o fluxo de download do n8n
-(`https://n8n.sittax.com.br/webhook/gdswk9q379vUtiyv/download/vX.Y.Z/SittaxRec.{exe,AppImage}`), que busca o arquivo
+(`https://n8n.sittax.com.br/webhook/gdswk9q379vUtiyv/download/vX.Y.Z/SittaxRec.{exe,dmg,AppImage}`), que busca o arquivo
 aqui no GitHub e devolve direto. A partir do build de 17/11/2026 o app segue redirect.
 
 ## Publicar uma versão nova
